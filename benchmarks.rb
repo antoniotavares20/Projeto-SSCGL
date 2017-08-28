@@ -1,4 +1,3 @@
 #nova altrercao
 init 6
-asdfasd saz
-
+# aprendendo a pular a bendita seleção 
