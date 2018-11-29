@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+<head>
+<!--Import Google Icon Font-->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+	rel="stylesheet" />
+<!--Import materialize.css-->
+<link type="text/css" rel="stylesheet"
+	href="materialize/css/materialize.min.css" media="screen,projection" />
+
+<title>SistApLog</title>
+</head>
+<body>
+	<h1>Listar Eventos</h1>
+	<h3>
+		<a href="../cadastrarEvento" class="waves-effect waves-light btn"><i
+			class="material-icons left">brush</i>Lista de Enventos</a>
+	</h3>
+	<div th:each="evento : ${evento}" class="container">
+		<div class="row">
+			<p>
+				Nome <span th:text="${evento.nome}"></span>
+				<p> Local <span th:text="${evento.local}"></span>
+		
+			<p> Data <span th:text="${evento.data}"></span>
+		
+			<p> Hora <span th:text="${evento.hora}"></span>		
+	
+		</div>	
+		<form method="post">
+			Nome <input type="text" value="" name=""/>
+			RG <input type="text" value="" name="rg"/>
+			<button type="submit" class="waves-effect waves-light btn"><i
+			class="material-icons left">brush</i>Adicionar</button>
+		</form>
+	</div>
+	<h5>Lista de Convidados</h5>
+	<div class="conteiner" th:each= "convidado: ${convidados}">
+		<div class="row">
+		<div class="input-field col s3">	
+			<p><span th:text="${convidado.nomeConvidado}"></span></p>
+		</div>
+		<div class="input-field col s3">	
+			<p><span th:text="${convidado.rg}"></span></p>
+		</div>
+		</div>
+	</div>
+	<!--JavaScript at end of body for optimized loading-->
+				<script type="text/javascript"
+					src="materialize/js/materialize.min.js"></script>
+
+			</body>
+</html>

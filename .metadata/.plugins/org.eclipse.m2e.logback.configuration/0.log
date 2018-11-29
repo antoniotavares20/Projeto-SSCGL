@@ -1,0 +1,94 @@
+2018-11-29 12:40:04,757 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp does not contain lifecycle mapping metadata
+2018-11-29 12:40:05,949 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2018-11-29 12:40:05,971 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2018-11-29 12:40:05,999 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2018-11-29 12:40:51,194 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rda.sistaplog2:sistaplog2:0.0.1-SNAPSHOT @ C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog2\pom.xml.
+2018-11-29 12:41:25,266 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sistaplog2/src/main/java
+2018-11-29 12:41:25,269 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sistaplog2/src/main/resources
+2018-11-29 12:41:25,272 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sistaplog2/src/main/resources
+2018-11-29 12:41:25,278 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sistaplog2/src/test/java
+2018-11-29 12:41:28,598 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rda.sistaplog2:sistaplog2:0.0.1-SNAPSHOT @ C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog2\pom.xml.
+2018-11-29 12:41:29,363 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 49 sec
+2018-11-29 12:41:37,417 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-11-29 12:41:37,420 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-11-29 12:41:42,339 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rda.sistaplog2:sistaplog2:0.0.1-SNAPSHOT @ C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog2\pom.xml.
+2018-11-29 12:41:58,971 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rda.sistaplog2:sistaplog2:0.0.1-SNAPSHOT @ C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog2\pom.xml.
+2018-11-29 12:42:35,689 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:42:36,075 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-29 12:42:36,398 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2018-11-29 12:42:45,905 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:42:45,906 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog2\src\test\resources
+2018-11-29 12:42:53,348 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rda.sistaplog2:sistaplog2:0.0.1-SNAPSHOT @ C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog2\pom.xml.
+2018-11-29 12:43:06,439 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:43:06,629 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-29 12:43:06,717 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2018-11-29 12:43:06,827 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:43:06,828 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog2\src\test\resources
+2018-11-29 12:43:38,657 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:43:38,658 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-29 12:43:38,689 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-29 12:43:38,730 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:43:38,767 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog2\src\test\resources
+2018-11-29 12:44:25,189 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-11-29 12:44:28,372 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rda.sistaplog2:sistaplog2:0.0.1-SNAPSHOT @ C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog2\pom.xml.
+2018-11-29 12:44:37,067 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sistaplog2/src/main/java
+2018-11-29 12:44:37,096 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sistaplog2/src/main/resources
+2018-11-29 12:44:37,117 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sistaplog2/src/main/resources
+2018-11-29 12:44:37,142 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sistaplog2/src/test/java
+2018-11-29 12:44:39,036 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 13 sec
+2018-11-29 12:44:40,372 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:44:40,375 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-29 12:44:40,524 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2018-11-29 12:44:42,857 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:44:42,885 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog2\src\test\resources
+2018-11-29 12:46:03,919 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog2
+2018-11-29 12:46:04,011 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2018-11-29 12:47:14,629 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rda.sistaplog2:sistaplog2:0.0.1-SNAPSHOT @ C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog2\pom.xml.
+2018-11-29 12:47:22,739 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:47:22,803 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-29 12:47:22,939 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2018-11-29 12:47:24,824 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:47:24,845 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog2\src\test\resources
+2018-11-29 12:47:39,757 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:47:39,843 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-29 12:47:39,904 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-29 12:47:39,959 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:47:39,960 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog2\src\test\resources
+2018-11-29 12:48:16,855 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rda.sistaplog2:sistaplog2:0.0.1-SNAPSHOT @ C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog\pom.xml.
+2018-11-29 12:48:26,146 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rda.sistaplog2:sistaplog2:0.0.1-SNAPSHOT @ C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog\pom.xml.
+2018-11-29 12:48:30,562 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:48:30,564 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-29 12:48:30,582 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2018-11-29 12:48:33,174 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:48:33,175 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog\src\test\resources
+2018-11-29 12:48:42,745 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:48:42,830 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-29 12:48:42,880 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2018-11-29 12:48:43,552 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rda.sistaplog2:sistaplog2:0.0.1-SNAPSHOT @ C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog\pom.xml.
+2018-11-29 12:48:44,709 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:48:44,749 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog\src\test\resources
+2018-11-29 12:48:54,918 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:48:54,968 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-29 12:48:55,070 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2018-11-29 12:48:55,176 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:48:55,177 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog\src\test\resources
+2018-11-29 12:50:04,696 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:50:04,715 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-29 12:50:04,790 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2018-11-29 12:50:04,874 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:50:04,907 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog\src\test\resources
+2018-11-29 12:50:28,672 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:50:28,734 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-29 12:50:28,830 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2018-11-29 12:50:28,903 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:50:28,903 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog\src\test\resources
+2018-11-29 12:50:39,041 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:50:39,056 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-29 12:50:39,080 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2018-11-29 12:50:39,096 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:50:39,114 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog\src\test\resources
+2018-11-29 12:50:53,144 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:50:53,192 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-29 12:50:53,253 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2018-11-29 12:50:53,290 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-29 12:50:53,290 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Antonio Tavares\Documents\Projeto-SSCGL\sistaplog\src\test\resources
