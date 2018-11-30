@@ -1,6 +1,5 @@
 package br.com.rda.sistaplog.models;
 
-
 import java.io.Serializable;
 import java.util.List;
 
@@ -9,10 +8,9 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
+import org.hibernate.validator.constraints.NotEmpty;
 
-
-
-@Entity
+@Entity(name="eventos")
 public class Evento implements Serializable{
 	
 	/**
@@ -23,16 +21,18 @@ public class Evento implements Serializable{
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private long codigo;
-	
+	@NotEmpty
 	private String nome;
+	@NotEmpty
 	private String local;
+	@NotEmpty
 	private String data;
+	@NotEmpty
 	private String hora;
 	
 	@OneToMany
 	private List<Convidado> convidado;
-	
-	
+		
 	
 	public long getCodigo() {
 		return codigo;

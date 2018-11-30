@@ -8,6 +8,8 @@ body {
 .content {
 	background-color: #fafafa;
 	flex: 1 0 auto;
+	padding-left: 130px;
+	
 }
 
 .menu {

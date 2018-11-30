@@ -2,3 +2,8 @@
 1543503026909	Rename package 'br.com.rda.sistaplog2.controller'
 1543503037574	Rename package 'br.com.rda.sistaplog2.data'
 1543503050954	Rename package 'br.com.rda.sistaplog2.models'
+1543546431707	Rename type 'Sistaplog2Application'
+1543547744929	Move 1 resources to 'sistaplog'
+1543547764281	Delete element
+1543552859634	Rename package 'br.com.rda.sistaplog2.sistaplog2'
+1543552885067	Rename type 'Sistaplog2ApplicationTests'
