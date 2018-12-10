@@ -1,0 +1,40 @@
+<!DOCTYPE html SYSTEM "http://www.thymeleaf.org/dtd/xhtml1-strict-thymeleaf-4.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+
+  <body>
+  
+   <div th:fragment="listaEventos">
+		<div class="container content">
+		<table class="">
+			<thead>
+				<tr>
+					<th>Nome</th>
+					<th>Local</th>
+					<th>Data</th>
+					<th>Hora</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr th:each="evento : ${eventos}">
+					<td><a
+						th:href="${(#mvc.url('EC#detalhesEvento').arg(0, evento.codigo)).build()}"><span
+							th:text="${evento.nome}"></span></a></td>
+					<td><span th:text="${evento.local}"></span></td>
+					<td><span th:text="${evento.data}"></span></td>
+					<td><span th:text="${evento.hora}"></span></td>
+					<td><a class="waves-effect waves-light btn-small"
+						th:href="${(#mvc.url('EC#deletarEvento').arg(0, evento.codigo)).build()}"><i
+							class="material-icons left">delete</i></a></td>
+				</tr>
+			</tbody>
+		</table>
+
+	</div>
+</div>
+
+
+  </body>
+  
+</html>

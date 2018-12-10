@@ -1,0 +1,29 @@
+<!DOCTYPE html SYSTEM "http://www.thymeleaf.org/dtd/xhtml1-strict-thymeleaf-4.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org">
+
+<body>
+
+	<div th:fragment="slide">
+
+		<ul id="slide-out" class="sidenav sidenav-fixed sid  menu ">
+			<li>
+				<div class="user-view" align="center">
+					<a href="#user"><img class="circle" src="img/mussun.jpg"></a>
+					<a href="#"><span class="white-text function">Operador
+							Logístico</span></a>
+				</div>
+			</li>
+
+			<li><a class="white-text" href="/cadastrarEvento">Cadastrar
+					Eventos</a></li>
+			<li><a class="disabled " href="#">Motorista</a></li>
+			<li><a class=" disabled" href="#">Escala</a></li>
+			<li><a class=" disabled" href="#">Veiculos</a></li>
+			<li><a class="disabled" href="#">Missões</a></li>
+		</ul>
+	</div>
+</body>
+
+</html>

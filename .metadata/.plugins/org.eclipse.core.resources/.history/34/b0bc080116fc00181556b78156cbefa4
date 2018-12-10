@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html layout:decorate="~{layout}">
+<head>
+	<meta charset="UTF-8"/>
+</head>
+  <body>
+    <section th:fragment="conteudo"> 
+  		     teste
+    </section>
+    </div>
+   </body>
+</html>

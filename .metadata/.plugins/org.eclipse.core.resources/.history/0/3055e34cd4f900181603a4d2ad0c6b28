@@ -1,0 +1,10 @@
+package br.com.rda.sistaplog.sistaplog;
+
+public class TesteIndex {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

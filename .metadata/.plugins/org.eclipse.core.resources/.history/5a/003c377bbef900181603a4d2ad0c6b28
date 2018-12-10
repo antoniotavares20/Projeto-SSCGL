@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/br/com/rda/sistaplog/data/DataConfiguration.java=UTF-8
+encoding//src/main/java/br/com/rda/sistaplog/repository/EventoRepository.java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/resources/application.properties=UTF-8
+encoding//src/main/resources/templates/index.html=UTF-8
+encoding//src/main/resources/templates/mensagemValidacao.html=UTF-8
+encoding//src/main/resources/templates/validacao.html=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8

@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+  <body>
+    ...
+    <div th:fragment="listaEventos">
+      Only this div will be rendered!
+    </div>
+    ...
+  </body>
+</html>

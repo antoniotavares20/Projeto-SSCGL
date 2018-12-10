@@ -1,9 +1,0 @@
-package br.com.rda.sistaplog2.repository;
-
-import org.springframework.data.repository.CrudRepository;
-
-import br.com.rda.sistaplog2.models.Evento;
-
-public interface EventoRepository extends CrudRepository<Evento, String>{
-	Evento findByCodigo(long codigo);
-}
